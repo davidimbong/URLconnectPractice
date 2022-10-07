@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">URLconnectPractice</string>
+    <string name="download">Download</string>
+    <string name="verified_users">Verified Users</string>
+</resources>
